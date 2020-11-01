@@ -19,6 +19,16 @@ namespace Helloworld
             Console.WriteLine(character);
             Console.WriteLine(working);
             Console.WriteLine("{0} {1} ", byte.MinValue, byte.MaxValue);
+            int i = 1;
+            byte b = (byte)i;
+            Console.WriteLine(b);
+            var x = "1234";
+            int y = Convert.ToInt32(x);
+            Console.WriteLine(y);
+
+
+
+
 
 
 
