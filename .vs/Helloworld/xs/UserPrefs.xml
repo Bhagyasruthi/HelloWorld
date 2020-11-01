@@ -1,18 +1,14 @@
 ﻿<Properties StartupConfiguration="{31ACF201-8449-4460-AB5F-6CAC64DBB4AA}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Helloworld/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Helloworld/FundamentalProgramTwo.cs">
     <Files>
-      <File FileName="Helloworld/Program.cs" Line="71" Column="10" />
-      <File FileName="Helloworld/programm1.cs" Line="1" Column="1" />
+      <File FileName="Helloworld/FundamentalProgramTwo.cs" Line="47" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Helloworld" expanded="True">
             <Node name="Helloworld" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="FrameworkReferences" expanded="True" />
-              </Node>
-              <Node name="Program.cs" selected="True" />
+              <Node name="FundamentalProgramTwo.cs" selected="True" />
             </Node>
           </Node>
         </State>
