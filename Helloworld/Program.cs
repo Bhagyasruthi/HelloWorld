@@ -18,6 +18,7 @@ namespace Helloworld
             Console.WriteLine(totalprice);
             Console.WriteLine(character);
             Console.WriteLine(working);
+            Console.WriteLine("{0} {1} ", byte.MinValue, byte.MaxValue);
 
 
 
