@@ -36,6 +36,10 @@ namespace Helloworld
             {
                 Console.WriteLine("The number couldnot be converted to byte");
             }
+            var a = 2;
+            var w = 3;
+            Console.WriteLine(a + w);
+
 
 
 
