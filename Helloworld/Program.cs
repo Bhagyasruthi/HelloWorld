@@ -25,6 +25,17 @@ namespace Helloworld
             var x = "1234";
             int y = Convert.ToInt32(x);
             Console.WriteLine(y);
+            try
+            {
+                var z = "1234";
+                byte c = Convert.ToByte(z);
+                Console.WriteLine(c);
+
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("The number couldnot be converted to byte");
+            }
 
 
 
